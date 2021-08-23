@@ -103,5 +103,8 @@
     "*.html": [
       "htmlhint"
     ]
+  },
+  "dependencies": {
+    "colormap": "^2.3.2"
   }
 }
